@@ -1,6 +1,3 @@
-
-//perfect
-
 const Reminder = require("../models/Reminder");
 const transporter = require("../config/mail");
 const qs = require("qs");
